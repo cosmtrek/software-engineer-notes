@@ -31,6 +31,10 @@ Note:
 
 * :book: [Site Reliability Engineering: How Google Runs Production Systems](http://shop.oreilly.com/product/0636920041528.do)
 
+## Performance
+
+* :book: [性能之巅](https://book.douban.com/subject/26586598)
+
 ## Design Patterns
 
 * :book: [Head First Design Patterns](http://shop.oreilly.com/product/9780596007126.do)
@@ -41,6 +45,12 @@ Note:
 * :book: [具体数学](https://book.douban.com/subject/21323941)
 * :book: [程序员的数学2：概率统计](https://book.douban.com/subject/26593822)
 * :book: [程序员的数学3：线性代数](https://book.douban.com/subject/26740548)
+
+## AI
+
+* :school: [Machine Learning](https://www.coursera.org/learn/machine-learning)
+* :book [Deep Learning](http://www.deeplearningbook.org)
+* :book: [Practical Deep Learning For Coders](http://course.fast.ai)
 
 ## Computation
 
