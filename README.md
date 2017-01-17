@@ -46,6 +46,10 @@ Note:
 * :book: [程序员的数学2：概率统计](https://book.douban.com/subject/26593822)
 * :book: [程序员的数学3：线性代数](https://book.douban.com/subject/26740548)
 
+## Algorithms
+
+* :book: [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY)
+
 ## AI
 
 * :school: [Machine Learning](https://www.coursera.org/learn/machine-learning)
