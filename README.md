@@ -7,6 +7,7 @@ Note:
 * :book: - book
 * :school: - course
 * :pencil: - paper
+* -> - reading
 
 ## Operating Systems
 
@@ -29,11 +30,12 @@ Note:
 
 ## DevOps
 
+* -> :book: [Docker: 容器与容器云](https://book.douban.com/subject/26894736)
 * :book: [Site Reliability Engineering: How Google Runs Production Systems](http://shop.oreilly.com/product/0636920041528.do)
 
 ## Performance
 
-* :book: [性能之巅](https://book.douban.com/subject/26586598)
+* -> :book: [性能之巅](https://book.douban.com/subject/26586598)
 
 ## Design Patterns
 
