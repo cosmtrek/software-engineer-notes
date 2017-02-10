@@ -54,7 +54,7 @@ Note:
 
 ## AI
 
-* :school: [Machine Learning](https://www.coursera.org/learn/machine-learning)
+* -> :school: [Machine Learning](https://www.coursera.org/learn/machine-learning)
 * :book: [Deep Learning](http://www.deeplearningbook.org)
 * :book: [Practical Deep Learning For Coders](http://course.fast.ai)
 
