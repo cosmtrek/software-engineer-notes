@@ -32,6 +32,7 @@ Note:
 
 * -> :book: [Docker: 容器与容器云](https://book.douban.com/subject/26894736)
 * :book: [Site Reliability Engineering: How Google Runs Production Systems](http://shop.oreilly.com/product/0636920041528.do)
+* -> :book: [Modern Linux Administration](http://shop.oreilly.com/product/0636920044079.do)
 
 ## Performance
 
