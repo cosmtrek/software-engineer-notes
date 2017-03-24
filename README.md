@@ -32,7 +32,7 @@ Note:
 
 * -> :book: [Docker: 容器与容器云](https://book.douban.com/subject/26894736)
 * :book: [Site Reliability Engineering: How Google Runs Production Systems](http://shop.oreilly.com/product/0636920041528.do)
-* -> :book: [Modern Linux Administration](http://shop.oreilly.com/product/0636920044079.do)
+* :book: [Modern Linux Administration](http://shop.oreilly.com/product/0636920044079.do)
 
 ## Performance
 
@@ -48,6 +48,7 @@ Note:
 * :book: [具体数学](https://book.douban.com/subject/21323941)
 * :book: [程序员的数学2：概率统计](https://book.douban.com/subject/26593822)
 * :book: [程序员的数学3：线性代数](https://book.douban.com/subject/26740548)
+* :book: [统计学习方法](https://book.douban.com/subject/10590856)
 
 ## Algorithms
 
@@ -55,9 +56,11 @@ Note:
 
 ## AI
 
-* -> :school: [Machine Learning](https://www.coursera.org/learn/machine-learning)
+* :school: [Machine Learning](https://www.coursera.org/learn/machine-learning)
 * :book: [Deep Learning](http://www.deeplearningbook.org)
 * :book: [Practical Deep Learning For Coders](http://course.fast.ai)
+* :school: -> [NTUEE ML 2016](https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
+* :school: -> [CS 20SI: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html)
 
 ## Computation
 
