@@ -18,7 +18,7 @@ Note:
 
 * :book: [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * :book: [大规模分布式存储系统：原理解析与架构实战](https://book.douban.com/subject/25723658)
-* :school: [6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824)
+* -> :school: [6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824)
 
 ## Linker and Loaders
 
@@ -30,13 +30,14 @@ Note:
 
 ## DevOps
 
-* -> :book: [Docker: 容器与容器云](https://book.douban.com/subject/26894736)
+* :book: [Docker: 容器与容器云](https://book.douban.com/subject/26894736)
+* :book: [Kubernetes 权威指南](https://book.douban.com/subject/26902153)
 * :book: [Site Reliability Engineering: How Google Runs Production Systems](http://shop.oreilly.com/product/0636920041528.do)
 * :book: [Modern Linux Administration](http://shop.oreilly.com/product/0636920044079.do)
 
 ## Performance
 
-* -> :book: [性能之巅](https://book.douban.com/subject/26586598)
+* :book: [性能之巅](https://book.douban.com/subject/26586598)
 
 ## Design Patterns
 
@@ -59,8 +60,8 @@ Note:
 * :school: [Machine Learning](https://www.coursera.org/learn/machine-learning)
 * :book: [Deep Learning](http://www.deeplearningbook.org)
 * :book: [Practical Deep Learning For Coders](http://course.fast.ai)
-* :school: -> [NTUEE ML 2016](https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
-* :school: -> [CS 20SI: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html)
+* :school: [NTUEE ML 2016](https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
+* :school: [CS 20SI: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html)
 
 ## Computation
 
