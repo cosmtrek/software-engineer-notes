@@ -13,12 +13,14 @@ Note:
 
 * :book: [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP)
 * :book: [Advanced Programming in the UNIX Environment, Third Edition](http://www.apuebook.com/apue3e.html)
+* -> :book: [Java Concurrency in Practice](https://www.safaribooksonline.com/library/view/java-concurrency-in/0321349601)
 
 ## Distributed Systems
 
 * :book: [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * :book: [大规模分布式存储系统：原理解析与架构实战](https://book.douban.com/subject/25723658)
 * -> :school: [6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824)
+* -> :book: [Designing Data-Intensive Applications](https://www.safaribooksonline.com/library/view/designing-data-intensive-applications/9781491903063)
 
 ## Linker and Loaders
 
