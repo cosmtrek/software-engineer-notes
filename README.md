@@ -83,6 +83,9 @@ Note:
 ### Python
 
 * :book: [Fluent Python: Clear, Concise and Effective Programming](http://shop.oreilly.com/product/0636920032519.do)
+* :book: [Explore Python](http://funhacks.net/explore-python)
+* :book: [Python Cookbook 3rd Edition](http://python3-cookbook.readthedocs.io/zh_CN/latest/index.html)
+* :book: [Intermediate Python](http://book.pythontips.com/en/latest/index.html)
 
 ### Ruby
 
